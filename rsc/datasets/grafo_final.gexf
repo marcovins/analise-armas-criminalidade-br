@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-28">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Associação entre violência e a circulação ilícita de armas de fogo" label="Associação entre violência e a circulação ilícita de armas de fogo" />
+      <node id="Acre" label="Acre" />
+      <node id="Alagoas" label="Alagoas" />
+      <node id="Amapá" label="Amapá" />
+      <node id="Amazonas" label="Amazonas" />
+      <node id="Bahia" label="Bahia" />
+      <node id="Ceará" label="Ceará" />
+      <node id="Distrito Federal" label="Distrito Federal" />
+      <node id="Espírito Santo" label="Espírito Santo" />
+      <node id="Goiás" label="Goiás" />
+      <node id="Maranhão" label="Maranhão" />
+      <node id="Mato Grosso" label="Mato Grosso" />
+      <node id="Mato Grosso do Sul" label="Mato Grosso do Sul" />
+      <node id="Minas Gerais" label="Minas Gerais" />
+      <node id="Pará" label="Pará" />
+      <node id="Paraíba" label="Paraíba" />
+      <node id="Paraná" label="Paraná" />
+      <node id="Pernambuco" label="Pernambuco" />
+      <node id="Piauí" label="Piauí" />
+      <node id="Rio de Janeiro" label="Rio de Janeiro" />
+      <node id="Rio Grande do Norte" label="Rio Grande do Norte" />
+      <node id="Rio Grande do Sul" label="Rio Grande do Sul" />
+      <node id="Rondônia" label="Rondônia" />
+      <node id="Roraima" label="Roraima" />
+      <node id="Santa Catarina" label="Santa Catarina" />
+      <node id="São Paulo" label="São Paulo" />
+      <node id="Sergipe" label="Sergipe" />
+      <node id="Tocantins" label="Tocantins" />
+    </nodes>
+    <edges>
+      <edge source="Acre" target="Associação entre violência e a circulação ilícita de armas de fogo" id="0" weight="0.5795566567199322" />
+      <edge source="Alagoas" target="Associação entre violência e a circulação ilícita de armas de fogo" id="1" weight="0.021765672746584273" />
+      <edge source="Amapá" target="Associação entre violência e a circulação ilícita de armas de fogo" id="2" weight="0.1343204161866434" />
+      <edge source="Amazonas" target="Associação entre violência e a circulação ilícita de armas de fogo" id="3" weight="0.012808138228797169" />
+      <edge source="Bahia" target="Associação entre violência e a circulação ilícita de armas de fogo" id="4" weight="0.0012073870846814134" />
+      <edge source="Ceará" target="Associação entre violência e a circulação ilícita de armas de fogo" id="5" weight="0.00527644868404145" />
+      <edge source="Distrito Federal" target="Associação entre violência e a circulação ilícita de armas de fogo" id="6" weight="0.0249627079617969" />
+      <edge source="Espírito Santo" target="Associação entre violência e a circulação ilícita de armas de fogo" id="7" weight="0.028780855742249745" />
+      <edge source="Goiás" target="Associação entre violência e a circulação ilícita de armas de fogo" id="8" weight="0.011818056126806366" />
+      <edge source="Maranhão" target="Associação entre violência e a circulação ilícita de armas de fogo" id="9" weight="0.0051874469665239755" />
+      <edge source="Mato Grosso" target="Associação entre violência e a circulação ilícita de armas de fogo" id="10" weight="0.058897272590923394" />
+      <edge source="Mato Grosso do Sul" target="Associação entre violência e a circulação ilícita de armas de fogo" id="11" weight="0.030580374464436483" />
+      <edge source="Minas Gerais" target="Associação entre violência e a circulação ilícita de armas de fogo" id="12" weight="0.0026200684164174293" />
+      <edge source="Pará" target="Associação entre violência e a circulação ilícita de armas de fogo" id="13" weight="0.007493586032980969" />
+      <edge source="Paraíba" target="Associação entre violência e a circulação ilícita de armas de fogo" id="14" weight="0.020426996324676646" />
+      <edge source="Paraná" target="Associação entre violência e a circulação ilícita de armas de fogo" id="15" weight="0.007572299211425684" />
+      <edge source="Pernambuco" target="Associação entre violência e a circulação ilícita de armas de fogo" id="16" weight="0.0034720225911861074" />
+      <edge source="Piauí" target="Associação entre violência e a circulação ilícita de armas de fogo" id="17" weight="0.014850346920623977" />
+      <edge source="Rio de Janeiro" target="Associação entre violência e a circulação ilícita de armas de fogo" id="18" weight="0.0005902816512087743" />
+      <edge source="Rio Grande do Norte" target="Associação entre violência e a circulação ilícita de armas de fogo" id="19" weight="0.044024399092404" />
+      <edge source="Rio Grande do Sul" target="Associação entre violência e a circulação ilícita de armas de fogo" id="20" weight="0.011721108490199859" />
+      <edge source="Rondônia" target="Associação entre violência e a circulação ilícita de armas de fogo" id="21" weight="0.09707609706998319" />
+      <edge source="Roraima" target="Associação entre violência e a circulação ilícita de armas de fogo" id="22" weight="0.21312705105829166" />
+      <edge source="Santa Catarina" target="Associação entre violência e a circulação ilícita de armas de fogo" id="23" weight="0.019375888865049984" />
+      <edge source="São Paulo" target="Associação entre violência e a circulação ilícita de armas de fogo" id="24" weight="0.0003865355078005077" />
+      <edge source="Sergipe" target="Associação entre violência e a circulação ilícita de armas de fogo" id="25" weight="0.019319090259020722" />
+      <edge source="Tocantins" target="Associação entre violência e a circulação ilícita de armas de fogo" id="26" weight="0.06751001494605868" />
+    </edges>
+  </graph>
+</gexf>

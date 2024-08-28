@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-26">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Acre" label="Acre" />
+      <node id="Alagoas" label="Alagoas" />
+      <node id="Amapá" label="Amapá" />
+      <node id="Amazonas" label="Amazonas" />
+      <node id="Bahia" label="Bahia" />
+      <node id="Ceará" label="Ceará" />
+      <node id="Distrito Federal" label="Distrito Federal" />
+      <node id="Espírito Santo" label="Espírito Santo" />
+      <node id="Goiás" label="Goiás" />
+      <node id="Maranhão" label="Maranhão" />
+      <node id="Mato Grosso" label="Mato Grosso" />
+      <node id="Mato Grosso do Sul" label="Mato Grosso do Sul" />
+      <node id="Minas Gerais" label="Minas Gerais" />
+      <node id="Pará" label="Pará" />
+      <node id="Paraíba" label="Paraíba" />
+      <node id="Paraná" label="Paraná" />
+      <node id="Pernambuco" label="Pernambuco" />
+      <node id="Piauí" label="Piauí" />
+      <node id="Rio de Janeiro" label="Rio de Janeiro" />
+      <node id="Rio Grande do Norte" label="Rio Grande do Norte" />
+      <node id="Rio Grande do Sul" label="Rio Grande do Sul" />
+      <node id="Rondônia" label="Rondônia" />
+      <node id="Roraima" label="Roraima" />
+      <node id="Santa Catarina" label="Santa Catarina" />
+      <node id="São Paulo" label="São Paulo" />
+      <node id="Sergipe" label="Sergipe" />
+      <node id="Tocantins" label="Tocantins" />
+      <node id="Estupro" label="Estupro" />
+      <node id="Furto de veículo" label="Furto de veículo" />
+      <node id="Homicídio doloso" label="Homicídio doloso" />
+      <node id="Lesão corporal seguida de morte" label="Lesão corporal seguida de morte" />
+      <node id="Roubo a instituição financeira" label="Roubo a instituição financeira" />
+      <node id="Roubo de carga" label="Roubo de carga" />
+      <node id="Roubo de veículo" label="Roubo de veículo" />
+      <node id="Roubo seguido de morte (latrocínio)" label="Roubo seguido de morte (latrocínio)" />
+      <node id="Tentativa de homicídio" label="Tentativa de homicídio" />
+    </nodes>
+    <edges>
+      <edge source="Acre" target="Estupro" id="0" weight="1" />
+      <edge source="Acre" target="Furto de veículo" id="1" weight="67" />
+      <edge source="Acre" target="Homicídio doloso" id="2" weight="18" />
+      <edge source="Acre" target="Lesão corporal seguida de morte" id="3" weight="1" />
+      <edge source="Acre" target="Roubo de veículo" id="4" weight="107" />
+      <edge source="Acre" target="Tentativa de homicídio" id="5" weight="1" />
+      <edge source="Acre" target="Roubo seguido de morte (latrocínio)" id="6" weight="1" />
+      <edge source="Acre" target="Roubo a instituição financeira" id="7" weight="2" />
+      <edge source="Acre" target="Roubo de carga" id="8" weight="1" />
+      <edge source="Alagoas" target="Estupro" id="9" weight="48" />
+      <edge source="Alagoas" target="Furto de veículo" id="10" weight="62" />
+      <edge source="Alagoas" target="Homicídio doloso" id="11" weight="157" />
+      <edge source="Alagoas" target="Roubo de carga" id="12" weight="7" />
+      <edge source="Alagoas" target="Roubo de veículo" id="13" weight="334" />
+      <edge source="Alagoas" target="Roubo seguido de morte (latrocínio)" id="14" weight="4" />
+      <edge source="Alagoas" target="Tentativa de homicídio" id="15" weight="73" />
+      <edge source="Alagoas" target="Lesão corporal seguida de morte" id="16" weight="2" />
+      <edge source="Alagoas" target="Roubo a instituição financeira" id="17" weight="1" />
+      <edge source="Amapá" target="Estupro" id="18" weight="28" />
+      <edge source="Amapá" target="Furto de veículo" id="19" weight="73" />
+      <edge source="Amapá" target="Homicídio doloso" id="20" weight="27" />
+      <edge source="Amapá" target="Roubo de veículo" id="21" weight="12" />
+      <edge source="Amapá" target="Roubo seguido de morte (latrocínio)" id="22" weight="2" />
+      <edge source="Amapá" target="Tentativa de homicídio" id="23" weight="30" />
+      <edge source="Amapá" target="Lesão corporal seguida de morte" id="24" weight="1" />
+      <edge source="Amapá" target="Roubo de carga" id="25" weight="1" />
+      <edge source="Amapá" target="Roubo a instituição financeira" id="26" weight="1" />
+      <edge source="Amazonas" target="Estupro" id="27" weight="40" />
+      <edge source="Amazonas" target="Furto de veículo" id="28" weight="182" />
+      <edge source="Amazonas" target="Homicídio doloso" id="29" weight="85" />
+      <edge source="Amazonas" target="Lesão corporal seguida de morte" id="30" weight="1" />
+      <edge source="Amazonas" target="Roubo de veículo" id="31" weight="302" />
+      <edge source="Amazonas" target="Roubo seguido de morte (latrocínio)" id="32" weight="8" />
+      <edge source="Amazonas" target="Tentativa de homicídio" id="33" weight="23" />
+      <edge source="Amazonas" target="Roubo de carga" id="34" weight="1" />
+      <edge source="Amazonas" target="Roubo a instituição financeira" id="35" weight="2" />
+      <edge source="Bahia" target="Estupro" id="36" weight="175" />
+      <edge source="Bahia" target="Furto de veículo" id="37" weight="458" />
+      <edge source="Bahia" target="Homicídio doloso" id="38" weight="495" />
+      <edge source="Bahia" target="Lesão corporal seguida de morte" id="39" weight="14" />
+      <edge source="Bahia" target="Roubo de carga" id="40" weight="29" />
+      <edge source="Bahia" target="Roubo de veículo" id="41" weight="1085" />
+      <edge source="Bahia" target="Roubo seguido de morte (latrocínio)" id="42" weight="17" />
+      <edge source="Bahia" target="Tentativa de homicídio" id="43" weight="210" />
+      <edge source="Bahia" target="Roubo a instituição financeira" id="44" weight="3" />
+      <edge source="Ceará" target="Estupro" id="45" weight="90" />
+      <edge source="Ceará" target="Furto de veículo" id="46" weight="410" />
+      <edge source="Ceará" target="Homicídio doloso" id="47" weight="332" />
+      <edge source="Ceará" target="Lesão corporal seguida de morte" id="48" weight="1" />
+      <edge source="Ceará" target="Roubo de carga" id="49" weight="13" />
+      <edge source="Ceará" target="Roubo de veículo" id="50" weight="776" />
+      <edge source="Ceará" target="Roubo seguido de morte (latrocínio)" id="51" weight="7" />
+      <edge source="Ceará" target="Tentativa de homicídio" id="52" weight="124" />
+      <edge source="Ceará" target="Roubo a instituição financeira" id="53" weight="3" />
+      <edge source="Distrito Federal" target="Estupro" id="54" weight="54" />
+      <edge source="Distrito Federal" target="Furto de veículo" id="55" weight="572" />
+      <edge source="Distrito Federal" target="Homicídio doloso" id="56" weight="67" />
+      <edge source="Distrito Federal" target="Roubo de carga" id="57" weight="5" />
+      <edge source="Distrito Federal" target="Roubo de veículo" id="58" weight="410" />
+      <edge source="Distrito Federal" target="Roubo seguido de morte (latrocínio)" id="59" weight="4" />
+      <edge source="Distrito Federal" target="Tentativa de homicídio" id="60" weight="96" />
+      <edge source="Distrito Federal" target="Lesão corporal seguida de morte" id="61" weight="1" />
+      <edge source="Distrito Federal" target="Roubo a instituição financeira" id="62" weight="1" />
+      <edge source="Espírito Santo" target="Estupro" id="63" weight="31" />
+      <edge source="Espírito Santo" target="Furto de veículo" id="64" weight="219" />
+      <edge source="Espírito Santo" target="Homicídio doloso" id="65" weight="111" />
+      <edge source="Espírito Santo" target="Lesão corporal seguida de morte" id="66" weight="2" />
+      <edge source="Espírito Santo" target="Roubo a instituição financeira" id="67" weight="2" />
+      <edge source="Espírito Santo" target="Roubo de carga" id="68" weight="4" />
+      <edge source="Espírito Santo" target="Roubo de veículo" id="69" weight="225" />
+      <edge source="Espírito Santo" target="Roubo seguido de morte (latrocínio)" id="70" weight="2" />
+      <edge source="Espírito Santo" target="Tentativa de homicídio" id="71" weight="230" />
+      <edge source="Goiás" target="Estupro" id="72" weight="40" />
+      <edge source="Goiás" target="Furto de veículo" id="73" weight="1129" />
+      <edge source="Goiás" target="Homicídio doloso" id="74" weight="232" />
+      <edge source="Goiás" target="Lesão corporal seguida de morte" id="75" weight="1" />
+      <edge source="Goiás" target="Roubo de carga" id="76" weight="47" />
+      <edge source="Goiás" target="Roubo de veículo" id="77" weight="926" />
+      <edge source="Goiás" target="Roubo seguido de morte (latrocínio)" id="78" weight="4" />
+      <edge source="Goiás" target="Tentativa de homicídio" id="79" weight="184" />
+      <edge source="Goiás" target="Roubo a instituição financeira" id="80" weight="8" />
+      <edge source="Maranhão" target="Homicídio doloso" id="81" weight="204" />
+      <edge source="Maranhão" target="Lesão corporal seguida de morte" id="82" weight="6" />
+      <edge source="Maranhão" target="Roubo seguido de morte (latrocínio)" id="83" weight="8" />
+      <edge source="Maranhão" target="Estupro" id="84" weight="77" />
+      <edge source="Maranhão" target="Furto de veículo" id="85" weight="229" />
+      <edge source="Maranhão" target="Roubo a instituição financeira" id="86" weight="15" />
+      <edge source="Maranhão" target="Roubo de carga" id="87" weight="9" />
+      <edge source="Maranhão" target="Roubo de veículo" id="88" weight="420" />
+      <edge source="Maranhão" target="Tentativa de homicídio" id="89" weight="112" />
+      <edge source="Mato Grosso" target="Estupro" id="90" weight="95" />
+      <edge source="Mato Grosso" target="Furto de veículo" id="91" weight="307" />
+      <edge source="Mato Grosso" target="Homicídio doloso" id="92" weight="65" />
+      <edge source="Mato Grosso" target="Roubo a instituição financeira" id="93" weight="3" />
+      <edge source="Mato Grosso" target="Roubo de carga" id="94" weight="3" />
+      <edge source="Mato Grosso" target="Roubo de veículo" id="95" weight="217" />
+      <edge source="Mato Grosso" target="Roubo seguido de morte (latrocínio)" id="96" weight="7" />
+      <edge source="Mato Grosso" target="Tentativa de homicídio" id="97" weight="128" />
+      <edge source="Mato Grosso" target="Lesão corporal seguida de morte" id="98" weight="1" />
+      <edge source="Mato Grosso do Sul" target="Estupro" id="99" weight="122" />
+      <edge source="Mato Grosso do Sul" target="Furto de veículo" id="100" weight="281" />
+      <edge source="Mato Grosso do Sul" target="Homicídio doloso" id="101" weight="63" />
+      <edge source="Mato Grosso do Sul" target="Roubo de veículo" id="102" weight="117" />
+      <edge source="Mato Grosso do Sul" target="Roubo seguido de morte (latrocínio)" id="103" weight="5" />
+      <edge source="Mato Grosso do Sul" target="Tentativa de homicídio" id="104" weight="86" />
+      <edge source="Mato Grosso do Sul" target="Lesão corporal seguida de morte" id="105" weight="3" />
+      <edge source="Mato Grosso do Sul" target="Roubo a instituição financeira" id="106" weight="3" />
+      <edge source="Mato Grosso do Sul" target="Roubo de carga" id="107" weight="2" />
+      <edge source="Minas Gerais" target="Estupro" id="108" weight="130" />
+      <edge source="Minas Gerais" target="Furto de veículo" id="109" weight="2540" />
+      <edge source="Minas Gerais" target="Homicídio doloso" id="110" weight="376" />
+      <edge source="Minas Gerais" target="Roubo de carga" id="111" weight="45" />
+      <edge source="Minas Gerais" target="Roubo de veículo" id="112" weight="1036" />
+      <edge source="Minas Gerais" target="Roubo seguido de morte (latrocínio)" id="113" weight="10" />
+      <edge source="Minas Gerais" target="Tentativa de homicídio" id="114" weight="466" />
+      <edge source="Minas Gerais" target="Roubo a instituição financeira" id="115" weight="12" />
+      <edge source="Minas Gerais" target="Lesão corporal seguida de morte" id="116" weight="2" />
+      <edge source="Pará" target="Estupro" id="117" weight="193" />
+      <edge source="Pará" target="Furto de veículo" id="118" weight="264" />
+      <edge source="Pará" target="Homicídio doloso" id="119" weight="330" />
+      <edge source="Pará" target="Lesão corporal seguida de morte" id="120" weight="4" />
+      <edge source="Pará" target="Roubo de carga" id="121" weight="12" />
+      <edge source="Pará" target="Roubo de veículo" id="122" weight="551" />
+      <edge source="Pará" target="Roubo seguido de morte (latrocínio)" id="123" weight="14" />
+      <edge source="Pará" target="Tentativa de homicídio" id="124" weight="112" />
+      <edge source="Pará" target="Roubo a instituição financeira" id="125" weight="1" />
+      <edge source="Paraíba" target="Estupro" id="126" weight="25" />
+      <edge source="Paraíba" target="Furto de veículo" id="127" weight="183" />
+      <edge source="Paraíba" target="Homicídio doloso" id="128" weight="110" />
+      <edge source="Paraíba" target="Roubo a instituição financeira" id="129" weight="2" />
+      <edge source="Paraíba" target="Roubo de carga" id="130" weight="2" />
+      <edge source="Paraíba" target="Roubo de veículo" id="131" weight="115" />
+      <edge source="Paraíba" target="Roubo seguido de morte (latrocínio)" id="132" weight="6" />
+      <edge source="Paraíba" target="Tentativa de homicídio" id="133" weight="23" />
+      <edge source="Paraíba" target="Lesão corporal seguida de morte" id="134" weight="4" />
+      <edge source="Paraná" target="Estupro" id="135" weight="402" />
+      <edge source="Paraná" target="Furto de veículo" id="136" weight="1505" />
+      <edge source="Paraná" target="Homicídio doloso" id="137" weight="113" />
+      <edge source="Paraná" target="Lesão corporal seguida de morte" id="138" weight="9" />
+      <edge source="Paraná" target="Roubo de carga" id="139" weight="58" />
+      <edge source="Paraná" target="Roubo de veículo" id="140" weight="763" />
+      <edge source="Paraná" target="Roubo seguido de morte (latrocínio)" id="141" weight="7" />
+      <edge source="Paraná" target="Tentativa de homicídio" id="142" weight="71" />
+      <edge source="Paraná" target="Roubo a instituição financeira" id="143" weight="1" />
+      <edge source="Pernambuco" target="Estupro" id="144" weight="173" />
+      <edge source="Pernambuco" target="Furto de veículo" id="145" weight="1096" />
+      <edge source="Pernambuco" target="Homicídio doloso" id="146" weight="319" />
+      <edge source="Pernambuco" target="Lesão corporal seguida de morte" id="147" weight="2" />
+      <edge source="Pernambuco" target="Roubo de carga" id="148" weight="30" />
+      <edge source="Pernambuco" target="Roubo de veículo" id="149" weight="1009" />
+      <edge source="Pernambuco" target="Roubo seguido de morte (latrocínio)" id="150" weight="12" />
+      <edge source="Pernambuco" target="Tentativa de homicídio" id="151" weight="302" />
+      <edge source="Pernambuco" target="Roubo a instituição financeira" id="152" weight="10" />
+      <edge source="Piauí" target="Estupro" id="153" weight="61" />
+      <edge source="Piauí" target="Furto de veículo" id="154" weight="177" />
+      <edge source="Piauí" target="Homicídio doloso" id="155" weight="74" />
+      <edge source="Piauí" target="Roubo de carga" id="156" weight="1" />
+      <edge source="Piauí" target="Roubo de veículo" id="157" weight="304" />
+      <edge source="Piauí" target="Roubo seguido de morte (latrocínio)" id="158" weight="10" />
+      <edge source="Piauí" target="Tentativa de homicídio" id="159" weight="66" />
+      <edge source="Piauí" target="Lesão corporal seguida de morte" id="160" weight="2" />
+      <edge source="Piauí" target="Roubo a instituição financeira" id="161" weight="1" />
+      <edge source="Rio de Janeiro" target="Estupro" id="162" weight="371" />
+      <edge source="Rio de Janeiro" target="Furto de veículo" id="163" weight="1377" />
+      <edge source="Rio de Janeiro" target="Homicídio doloso" id="164" weight="351" />
+      <edge source="Rio de Janeiro" target="Lesão corporal seguida de morte" id="165" weight="3" />
+      <edge source="Rio de Janeiro" target="Roubo a instituição financeira" id="166" weight="4" />
+      <edge source="Rio de Janeiro" target="Roubo de carga" id="167" weight="920" />
+      <edge source="Rio de Janeiro" target="Roubo de veículo" id="168" weight="3136" />
+      <edge source="Rio de Janeiro" target="Roubo seguido de morte (latrocínio)" id="169" weight="11" />
+      <edge source="Rio de Janeiro" target="Tentativa de homicídio" id="170" weight="332" />
+      <edge source="Rio Grande do Norte" target="Estupro" id="171" weight="23" />
+      <edge source="Rio Grande do Norte" target="Furto de veículo" id="172" weight="85" />
+      <edge source="Rio Grande do Norte" target="Homicídio doloso" id="173" weight="119" />
+      <edge source="Rio Grande do Norte" target="Lesão corporal seguida de morte" id="174" weight="20" />
+      <edge source="Rio Grande do Norte" target="Roubo a instituição financeira" id="175" weight="7" />
+      <edge source="Rio Grande do Norte" target="Roubo de carga" id="176" weight="2" />
+      <edge source="Rio Grande do Norte" target="Roubo de veículo" id="177" weight="407" />
+      <edge source="Rio Grande do Norte" target="Roubo seguido de morte (latrocínio)" id="178" weight="5" />
+      <edge source="Rio Grande do Norte" target="Tentativa de homicídio" id="179" weight="14" />
+      <edge source="Rio Grande do Sul" target="Estupro" id="180" weight="433" />
+      <edge source="Rio Grande do Sul" target="Furto de veículo" id="181" weight="1588" />
+      <edge source="Rio Grande do Sul" target="Homicídio doloso" id="182" weight="221" />
+      <edge source="Rio Grande do Sul" target="Lesão corporal seguida de morte" id="183" weight="2" />
+      <edge source="Rio Grande do Sul" target="Roubo de carga" id="184" weight="28" />
+      <edge source="Rio Grande do Sul" target="Roubo de veículo" id="185" weight="1520" />
+      <edge source="Rio Grande do Sul" target="Roubo seguido de morte (latrocínio)" id="186" weight="11" />
+      <edge source="Rio Grande do Sul" target="Tentativa de homicídio" id="187" weight="404" />
+      <edge source="Rio Grande do Sul" target="Roubo a instituição financeira" id="188" weight="8" />
+      <edge source="Rondônia" target="Estupro" id="189" weight="61" />
+      <edge source="Rondônia" target="Furto de veículo" id="190" weight="317" />
+      <edge source="Rondônia" target="Homicídio doloso" id="191" weight="55" />
+      <edge source="Rondônia" target="Roubo de veículo" id="192" weight="161" />
+      <edge source="Rondônia" target="Roubo seguido de morte (latrocínio)" id="193" weight="2" />
+      <edge source="Rondônia" target="Tentativa de homicídio" id="194" weight="81" />
+      <edge source="Rondônia" target="Roubo a instituição financeira" id="195" weight="1" />
+      <edge source="Rondônia" target="Lesão corporal seguida de morte" id="196" weight="1" />
+      <edge source="Rondônia" target="Roubo de carga" id="197" weight="1" />
+      <edge source="Roraima" target="Estupro" id="198" weight="13" />
+      <edge source="Roraima" target="Furto de veículo" id="199" weight="69" />
+      <edge source="Roraima" target="Homicídio doloso" id="200" weight="4" />
+      <edge source="Roraima" target="Lesão corporal seguida de morte" id="201" weight="1" />
+      <edge source="Roraima" target="Roubo de veículo" id="202" weight="40" />
+      <edge source="Roraima" target="Roubo seguido de morte (latrocínio)" id="203" weight="2" />
+      <edge source="Roraima" target="Tentativa de homicídio" id="204" weight="5" />
+      <edge source="Roraima" target="Roubo a instituição financeira" id="205" weight="1" />
+      <edge source="Roraima" target="Roubo de carga" id="206" weight="1" />
+      <edge source="Santa Catarina" target="Estupro" id="207" weight="90" />
+      <edge source="Santa Catarina" target="Furto de veículo" id="208" weight="1140" />
+      <edge source="Santa Catarina" target="Homicídio doloso" id="209" weight="93" />
+      <edge source="Santa Catarina" target="Lesão corporal seguida de morte" id="210" weight="1" />
+      <edge source="Santa Catarina" target="Roubo de carga" id="211" weight="20" />
+      <edge source="Santa Catarina" target="Roubo de veículo" id="212" weight="268" />
+      <edge source="Santa Catarina" target="Roubo seguido de morte (latrocínio)" id="213" weight="6" />
+      <edge source="Santa Catarina" target="Tentativa de homicídio" id="214" weight="132" />
+      <edge source="Santa Catarina" target="Roubo a instituição financeira" id="215" weight="6" />
+      <edge source="São Paulo" target="Estupro" id="216" weight="723" />
+      <edge source="São Paulo" target="Furto de veículo" id="217" weight="8043" />
+      <edge source="São Paulo" target="Homicídio doloso" id="218" weight="342" />
+      <edge source="São Paulo" target="Lesão corporal seguida de morte" id="219" weight="4" />
+      <edge source="São Paulo" target="Roubo a instituição financeira" id="220" weight="10" />
+      <edge source="São Paulo" target="Roubo de carga" id="221" weight="779" />
+      <edge source="São Paulo" target="Roubo de veículo" id="222" weight="7970" />
+      <edge source="São Paulo" target="Roubo seguido de morte (latrocínio)" id="223" weight="28" />
+      <edge source="São Paulo" target="Tentativa de homicídio" id="224" weight="420" />
+      <edge source="Sergipe" target="Estupro" id="225" weight="41" />
+      <edge source="Sergipe" target="Furto de veículo" id="226" weight="68" />
+      <edge source="Sergipe" target="Homicídio doloso" id="227" weight="110" />
+      <edge source="Sergipe" target="Roubo de veículo" id="228" weight="192" />
+      <edge source="Sergipe" target="Roubo seguido de morte (latrocínio)" id="229" weight="5" />
+      <edge source="Sergipe" target="Tentativa de homicídio" id="230" weight="32" />
+      <edge source="Sergipe" target="Lesão corporal seguida de morte" id="231" weight="1" />
+      <edge source="Sergipe" target="Roubo a instituição financeira" id="232" weight="1" />
+      <edge source="Sergipe" target="Roubo de carga" id="233" weight="4" />
+      <edge source="Tocantins" target="Estupro" id="234" weight="32" />
+      <edge source="Tocantins" target="Furto de veículo" id="235" weight="156" />
+      <edge source="Tocantins" target="Homicídio doloso" id="236" weight="50" />
+      <edge source="Tocantins" target="Roubo a instituição financeira" id="237" weight="6" />
+      <edge source="Tocantins" target="Roubo de veículo" id="238" weight="55" />
+      <edge source="Tocantins" target="Roubo seguido de morte (latrocínio)" id="239" weight="2" />
+      <edge source="Tocantins" target="Tentativa de homicídio" id="240" weight="42" />
+      <edge source="Tocantins" target="Lesão corporal seguida de morte" id="241" weight="1" />
+      <edge source="Tocantins" target="Roubo de carga" id="242" weight="1" />
+    </edges>
+  </graph>
+</gexf>

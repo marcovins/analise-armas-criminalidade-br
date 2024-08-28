@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-28">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Populacao" label="Populacao" />
+      <node id="Rondônia" label="Rondônia" />
+      <node id="Acre" label="Acre" />
+      <node id="Amazonas" label="Amazonas" />
+      <node id="Roraima" label="Roraima" />
+      <node id="Pará" label="Pará" />
+      <node id="Amapá" label="Amapá" />
+      <node id="Tocantins" label="Tocantins" />
+      <node id="Maranhão" label="Maranhão" />
+      <node id="Piauí" label="Piauí" />
+      <node id="Ceará" label="Ceará" />
+      <node id="Rio Grande do Norte" label="Rio Grande do Norte" />
+      <node id="Paraíba" label="Paraíba" />
+      <node id="Pernambuco" label="Pernambuco" />
+      <node id="Alagoas" label="Alagoas" />
+      <node id="Sergipe" label="Sergipe" />
+      <node id="Bahia" label="Bahia" />
+      <node id="Minas Gerais" label="Minas Gerais" />
+      <node id="Espírito Santo" label="Espírito Santo" />
+      <node id="Rio de Janeiro" label="Rio de Janeiro" />
+      <node id="São Paulo" label="São Paulo" />
+      <node id="Paraná" label="Paraná" />
+      <node id="Santa Catarina" label="Santa Catarina" />
+      <node id="Rio Grande do Sul" label="Rio Grande do Sul" />
+      <node id="Mato Grosso do Sul" label="Mato Grosso do Sul" />
+      <node id="Mato Grosso" label="Mato Grosso" />
+      <node id="Goiás" label="Goiás" />
+      <node id="Distrito Federal" label="Distrito Federal" />
+    </nodes>
+    <edges>
+      <edge source="Rondônia" target="Populacao" id="0" weight="1616379" />
+      <edge source="Acre" target="Populacao" id="1" weight="829780" />
+      <edge source="Amazonas" target="Populacao" id="2" weight="3952262" />
+      <edge source="Roraima" target="Populacao" id="3" weight="634805" />
+      <edge source="Pará" target="Populacao" id="4" weight="8442962" />
+      <edge source="Amapá" target="Populacao" id="5" weight="774268" />
+      <edge source="Tocantins" target="Populacao" id="6" weight="1584306" />
+      <edge source="Maranhão" target="Populacao" id="7" weight="6800605" />
+      <edge source="Piauí" target="Populacao" id="8" weight="3270174" />
+      <edge source="Ceará" target="Populacao" id="9" weight="8936431" />
+      <edge source="Rio Grande do Norte" target="Populacao" id="10" weight="3303953" />
+      <edge source="Paraíba" target="Populacao" id="11" weight="4030961" />
+      <edge source="Pernambuco" target="Populacao" id="12" weight="9051113" />
+      <edge source="Alagoas" target="Populacao" id="13" weight="3125254" />
+      <edge source="Sergipe" target="Populacao" id="14" weight="2211868" />
+      <edge source="Bahia" target="Populacao" id="15" weight="14659023" />
+      <edge source="Minas Gerais" target="Populacao" id="16" weight="20732660" />
+      <edge source="Espírito Santo" target="Populacao" id="17" weight="3975100" />
+      <edge source="Rio de Janeiro" target="Populacao" id="18" weight="16615526" />
+      <edge source="São Paulo" target="Populacao" id="19" weight="46024937" />
+      <edge source="Paraná" target="Populacao" id="20" weight="11835379" />
+      <edge source="Santa Catarina" target="Populacao" id="21" weight="7762154" />
+      <edge source="Rio Grande do Sul" target="Populacao" id="22" weight="11088065" />
+      <edge source="Mato Grosso do Sul" target="Populacao" id="23" weight="2833742" />
+      <edge source="Mato Grosso" target="Populacao" id="24" weight="3784239" />
+      <edge source="Goiás" target="Populacao" id="25" weight="6950976" />
+      <edge source="Distrito Federal" target="Populacao" id="26" weight="2923369" />
+    </edges>
+  </graph>
+</gexf>

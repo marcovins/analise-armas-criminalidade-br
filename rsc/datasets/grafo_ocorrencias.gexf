@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-26">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="AC" label="AC" />
+      <node id="AL" label="AL" />
+      <node id="AM" label="AM" />
+      <node id="AP" label="AP" />
+      <node id="BA" label="BA" />
+      <node id="CE" label="CE" />
+      <node id="DF" label="DF" />
+      <node id="ES" label="ES" />
+      <node id="GO" label="GO" />
+      <node id="MA" label="MA" />
+      <node id="MG" label="MG" />
+      <node id="MS" label="MS" />
+      <node id="MT" label="MT" />
+      <node id="PA" label="PA" />
+      <node id="PB" label="PB" />
+      <node id="PE" label="PE" />
+      <node id="PI" label="PI" />
+      <node id="PR" label="PR" />
+      <node id="RJ" label="RJ" />
+      <node id="RN" label="RN" />
+      <node id="RO" label="RO" />
+      <node id="RR" label="RR" />
+      <node id="RS" label="RS" />
+      <node id="SC" label="SC" />
+      <node id="SE" label="SE" />
+      <node id="SP" label="SP" />
+      <node id="TO" label="TO" />
+      <node id="Furto de Arma de Fogo" label="Furto de Arma de Fogo" />
+      <node id="Extravio/Perda de Arma de Fogo" label="Extravio/Perda de Arma de Fogo" />
+      <node id="Recuperação de Arma de Fogo" label="Recuperação de Arma de Fogo" />
+      <node id="Apreensão de Arma de Fogo" label="Apreensão de Arma de Fogo" />
+      <node id="Roubo de Arma de Fogo" label="Roubo de Arma de Fogo" />
+    </nodes>
+    <edges>
+      <edge source="AC" target="Apreensão de Arma de Fogo" id="0" weight="27" />
+      <edge source="AC" target="Extravio/Perda de Arma de Fogo" id="1" weight="302" />
+      <edge source="AC" target="Furto de Arma de Fogo" id="2" weight="528" />
+      <edge source="AC" target="Recuperação de Arma de Fogo" id="3" weight="49" />
+      <edge source="AC" target="Roubo de Arma de Fogo" id="4" weight="51" />
+      <edge source="AL" target="Apreensão de Arma de Fogo" id="5" weight="49" />
+      <edge source="AL" target="Extravio/Perda de Arma de Fogo" id="6" weight="94" />
+      <edge source="AL" target="Furto de Arma de Fogo" id="7" weight="187" />
+      <edge source="AL" target="Recuperação de Arma de Fogo" id="8" weight="131" />
+      <edge source="AL" target="Roubo de Arma de Fogo" id="9" weight="7" />
+      <edge source="AM" target="Apreensão de Arma de Fogo" id="10" weight="10" />
+      <edge source="AM" target="Extravio/Perda de Arma de Fogo" id="11" weight="92" />
+      <edge source="AM" target="Furto de Arma de Fogo" id="12" weight="199" />
+      <edge source="AM" target="Recuperação de Arma de Fogo" id="13" weight="11" />
+      <edge source="AM" target="Roubo de Arma de Fogo" id="14" weight="14" />
+      <edge source="AP" target="Apreensão de Arma de Fogo" id="15" weight="8" />
+      <edge source="AP" target="Extravio/Perda de Arma de Fogo" id="16" weight="35" />
+      <edge source="AP" target="Furto de Arma de Fogo" id="17" weight="103" />
+      <edge source="AP" target="Recuperação de Arma de Fogo" id="18" weight="27" />
+      <edge source="AP" target="Roubo de Arma de Fogo" id="19" weight="9" />
+      <edge source="BA" target="Apreensão de Arma de Fogo" id="20" weight="83" />
+      <edge source="BA" target="Extravio/Perda de Arma de Fogo" id="21" weight="68" />
+      <edge source="BA" target="Furto de Arma de Fogo" id="22" weight="181" />
+      <edge source="BA" target="Recuperação de Arma de Fogo" id="23" weight="75" />
+      <edge source="BA" target="Roubo de Arma de Fogo" id="24" weight="33" />
+      <edge source="CE" target="Apreensão de Arma de Fogo" id="25" weight="296" />
+      <edge source="CE" target="Extravio/Perda de Arma de Fogo" id="26" weight="94" />
+      <edge source="CE" target="Furto de Arma de Fogo" id="27" weight="209" />
+      <edge source="CE" target="Recuperação de Arma de Fogo" id="28" weight="203" />
+      <edge source="CE" target="Roubo de Arma de Fogo" id="29" weight="26" />
+      <edge source="DF" target="Apreensão de Arma de Fogo" id="30" weight="402" />
+      <edge source="DF" target="Extravio/Perda de Arma de Fogo" id="31" weight="98" />
+      <edge source="DF" target="Furto de Arma de Fogo" id="32" weight="182" />
+      <edge source="DF" target="Recuperação de Arma de Fogo" id="33" weight="186" />
+      <edge source="DF" target="Roubo de Arma de Fogo" id="34" weight="15" />
+      <edge source="ES" target="Apreensão de Arma de Fogo" id="35" weight="314" />
+      <edge source="ES" target="Extravio/Perda de Arma de Fogo" id="36" weight="62" />
+      <edge source="ES" target="Furto de Arma de Fogo" id="37" weight="427" />
+      <edge source="ES" target="Recuperação de Arma de Fogo" id="38" weight="88" />
+      <edge source="ES" target="Roubo de Arma de Fogo" id="39" weight="54" />
+      <edge source="GO" target="Apreensão de Arma de Fogo" id="40" weight="348" />
+      <edge source="GO" target="Extravio/Perda de Arma de Fogo" id="41" weight="478" />
+      <edge source="GO" target="Furto de Arma de Fogo" id="42" weight="1037" />
+      <edge source="GO" target="Recuperação de Arma de Fogo" id="43" weight="187" />
+      <edge source="GO" target="Roubo de Arma de Fogo" id="44" weight="62" />
+      <edge source="MA" target="Apreensão de Arma de Fogo" id="45" weight="47" />
+      <edge source="MA" target="Extravio/Perda de Arma de Fogo" id="46" weight="80" />
+      <edge source="MA" target="Furto de Arma de Fogo" id="47" weight="201" />
+      <edge source="MA" target="Recuperação de Arma de Fogo" id="48" weight="25" />
+      <edge source="MA" target="Roubo de Arma de Fogo" id="49" weight="28" />
+      <edge source="MG" target="Apreensão de Arma de Fogo" id="50" weight="418" />
+      <edge source="MG" target="Extravio/Perda de Arma de Fogo" id="51" weight="439" />
+      <edge source="MG" target="Furto de Arma de Fogo" id="52" weight="1185" />
+      <edge source="MG" target="Recuperação de Arma de Fogo" id="53" weight="322" />
+      <edge source="MG" target="Roubo de Arma de Fogo" id="54" weight="144" />
+      <edge source="MS" target="Apreensão de Arma de Fogo" id="55" weight="135" />
+      <edge source="MS" target="Extravio/Perda de Arma de Fogo" id="56" weight="127" />
+      <edge source="MS" target="Furto de Arma de Fogo" id="57" weight="239" />
+      <edge source="MS" target="Recuperação de Arma de Fogo" id="58" weight="84" />
+      <edge source="MS" target="Roubo de Arma de Fogo" id="59" weight="6" />
+      <edge source="MT" target="Apreensão de Arma de Fogo" id="60" weight="193" />
+      <edge source="MT" target="Extravio/Perda de Arma de Fogo" id="61" weight="260" />
+      <edge source="MT" target="Furto de Arma de Fogo" id="62" weight="1052" />
+      <edge source="MT" target="Recuperação de Arma de Fogo" id="63" weight="148" />
+      <edge source="MT" target="Roubo de Arma de Fogo" id="64" weight="188" />
+      <edge source="PA" target="Apreensão de Arma de Fogo" id="65" weight="45" />
+      <edge source="PA" target="Extravio/Perda de Arma de Fogo" id="66" weight="197" />
+      <edge source="PA" target="Furto de Arma de Fogo" id="67" weight="573" />
+      <edge source="PA" target="Recuperação de Arma de Fogo" id="68" weight="58" />
+      <edge source="PA" target="Roubo de Arma de Fogo" id="69" weight="64" />
+      <edge source="PB" target="Apreensão de Arma de Fogo" id="70" weight="95" />
+      <edge source="PB" target="Extravio/Perda de Arma de Fogo" id="71" weight="76" />
+      <edge source="PB" target="Furto de Arma de Fogo" id="72" weight="156" />
+      <edge source="PB" target="Recuperação de Arma de Fogo" id="73" weight="38" />
+      <edge source="PB" target="Roubo de Arma de Fogo" id="74" weight="22" />
+      <edge source="PE" target="Apreensão de Arma de Fogo" id="75" weight="346" />
+      <edge source="PE" target="Extravio/Perda de Arma de Fogo" id="76" weight="147" />
+      <edge source="PE" target="Furto de Arma de Fogo" id="77" weight="300" />
+      <edge source="PE" target="Recuperação de Arma de Fogo" id="78" weight="84" />
+      <edge source="PE" target="Roubo de Arma de Fogo" id="79" weight="51" />
+      <edge source="PI" target="Apreensão de Arma de Fogo" id="80" weight="107" />
+      <edge source="PI" target="Extravio/Perda de Arma de Fogo" id="81" weight="45" />
+      <edge source="PI" target="Furto de Arma de Fogo" id="82" weight="152" />
+      <edge source="PI" target="Recuperação de Arma de Fogo" id="83" weight="17" />
+      <edge source="PI" target="Roubo de Arma de Fogo" id="84" weight="17" />
+      <edge source="PR" target="Apreensão de Arma de Fogo" id="85" weight="273" />
+      <edge source="PR" target="Extravio/Perda de Arma de Fogo" id="86" weight="402" />
+      <edge source="PR" target="Furto de Arma de Fogo" id="87" weight="1477" />
+      <edge source="PR" target="Recuperação de Arma de Fogo" id="88" weight="348" />
+      <edge source="PR" target="Roubo de Arma de Fogo" id="89" weight="125" />
+      <edge source="RJ" target="Apreensão de Arma de Fogo" id="90" weight="69" />
+      <edge source="RJ" target="Extravio/Perda de Arma de Fogo" id="91" weight="84" />
+      <edge source="RJ" target="Furto de Arma de Fogo" id="92" weight="335" />
+      <edge source="RJ" target="Recuperação de Arma de Fogo" id="93" weight="94" />
+      <edge source="RJ" target="Roubo de Arma de Fogo" id="94" weight="56" />
+      <edge source="RN" target="Apreensão de Arma de Fogo" id="95" weight="240" />
+      <edge source="RN" target="Extravio/Perda de Arma de Fogo" id="96" weight="97" />
+      <edge source="RN" target="Furto de Arma de Fogo" id="97" weight="390" />
+      <edge source="RN" target="Recuperação de Arma de Fogo" id="98" weight="200" />
+      <edge source="RN" target="Roubo de Arma de Fogo" id="99" weight="65" />
+      <edge source="RO" target="Apreensão de Arma de Fogo" id="100" weight="143" />
+      <edge source="RO" target="Extravio/Perda de Arma de Fogo" id="101" weight="222" />
+      <edge source="RO" target="Furto de Arma de Fogo" id="102" weight="568" />
+      <edge source="RO" target="Recuperação de Arma de Fogo" id="103" weight="75" />
+      <edge source="RO" target="Roubo de Arma de Fogo" id="104" weight="59" />
+      <edge source="RR" target="Apreensão de Arma de Fogo" id="105" weight="4" />
+      <edge source="RR" target="Extravio/Perda de Arma de Fogo" id="106" weight="50" />
+      <edge source="RR" target="Furto de Arma de Fogo" id="107" weight="109" />
+      <edge source="RR" target="Recuperação de Arma de Fogo" id="108" weight="13" />
+      <edge source="RR" target="Roubo de Arma de Fogo" id="109" weight="8" />
+      <edge source="RS" target="Apreensão de Arma de Fogo" id="110" weight="817" />
+      <edge source="RS" target="Extravio/Perda de Arma de Fogo" id="111" weight="761" />
+      <edge source="RS" target="Furto de Arma de Fogo" id="112" weight="2317" />
+      <edge source="RS" target="Recuperação de Arma de Fogo" id="113" weight="1366" />
+      <edge source="RS" target="Roubo de Arma de Fogo" id="114" weight="217" />
+      <edge source="SC" target="Apreensão de Arma de Fogo" id="115" weight="334" />
+      <edge source="SC" target="Extravio/Perda de Arma de Fogo" id="116" weight="370" />
+      <edge source="SC" target="Furto de Arma de Fogo" id="117" weight="1434" />
+      <edge source="SC" target="Recuperação de Arma de Fogo" id="118" weight="459" />
+      <edge source="SC" target="Roubo de Arma de Fogo" id="119" weight="44" />
+      <edge source="SE" target="Apreensão de Arma de Fogo" id="120" weight="18" />
+      <edge source="SE" target="Extravio/Perda de Arma de Fogo" id="121" weight="29" />
+      <edge source="SE" target="Furto de Arma de Fogo" id="122" weight="110" />
+      <edge source="SE" target="Recuperação de Arma de Fogo" id="123" weight="30" />
+      <edge source="SE" target="Roubo de Arma de Fogo" id="124" weight="7" />
+      <edge source="SP" target="Apreensão de Arma de Fogo" id="125" weight="554" />
+      <edge source="SP" target="Extravio/Perda de Arma de Fogo" id="126" weight="407" />
+      <edge source="SP" target="Furto de Arma de Fogo" id="127" weight="1170" />
+      <edge source="SP" target="Recuperação de Arma de Fogo" id="128" weight="980" />
+      <edge source="SP" target="Roubo de Arma de Fogo" id="129" weight="148" />
+      <edge source="TO" target="Apreensão de Arma de Fogo" id="130" weight="29" />
+      <edge source="TO" target="Extravio/Perda de Arma de Fogo" id="131" weight="77" />
+      <edge source="TO" target="Furto de Arma de Fogo" id="132" weight="201" />
+      <edge source="TO" target="Recuperação de Arma de Fogo" id="133" weight="45" />
+      <edge source="TO" target="Roubo de Arma de Fogo" id="134" weight="17" />
+    </edges>
+  </graph>
+</gexf>
