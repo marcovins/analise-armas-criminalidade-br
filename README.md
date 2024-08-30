@@ -25,13 +25,13 @@ Explorar a relação entre a presença de armas de fogo ilegais e a taxa de crim
 <p><li><strong>Objetivos específicos</strong></li></p>
 <div align="justify"> → Modelar as conexões entre diferentes tipos de crimes e a apreensão de armas de fogo ilegais em diversas Unidades Federativas (UFs) brasileiras; </div>
 <div align="justify"> → Analisar padrões geográficos e temporais para identificar regiões com alta correlação entre a criminalidade e a presença de armas de fogo; </div>
-<div align="justify"> style="font-weight: normal;"> → Detectar componentes conexas e analisar a centralidade de estados e crimes específicos em relação à presença de armas ilegais. </div>
+<div align="justify"> → Detectar componentes conexas e analisar a centralidade de estados e crimes específicos em relação à presença de armas ilegais. </div>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
 <h2 id="desenvolvimento"> 🖥️ DESENVOLVIMENTO</h2>
 
-<li>Impacto social da análise:</li> 
+<p><li><strong>Impacto social da análise</strong></li></p>
 <ul>
 Este projeto pode contribuir para o desenvolvimento de políticas públicas de segurança mais eficientes, ao fornecer evidências empíricas sobre a relação entre armas ilegais e o aumento da criminalidade em determinadas regiões.
 </ul>
