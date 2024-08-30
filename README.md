@@ -1,8 +1,8 @@
-# Análise da Correlação entre Armas de Fogo Ilegais e Criminalidade no Brasil - Engenharia de Computação/IFPB
+# Análise da Correlação entre Armas de Fogo Ilegais e Criminalidade no Brasil
 Análise da relação entre a presença de armas de fogo ilegais e a taxa de criminalidade nas regiões do Brasil, modelando e analisando esses fatores como redes complexas, para o curso de Engenharia de Computação - IFPB.
 
 <p align="center"> 
-<h4 align="center"> Análise de Armas e Criminalidade - Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a>(Inverno 2023) </h4>
+<h4 align="center"> Grafo para Análise de Armas e Criminalidade - Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a>(Inverno 2024) </h4>
 
 <br>
 </br>
@@ -10,13 +10,14 @@ Análise da relação entre a presença de armas de fogo ilegais e a taxa de cri
 <a href="https://i.makeagif.com/media/8-07-2015/otpMtV.gif" target="_blank"><img src="https://i.makeagif.com/media/8-07-2015/otpMtV.gif" alt="image host" height="142px"/></a>
 </p>
 
-<h4> | <a href="#obetivo">Objetivos</a> | <a href="#desenvolvimento">Desenvolvimento</a> | <a href="#resultados">Resultados  obtidos</a> | <a href="#descricao">Descrição dos arquivos</a> | <a href="#creditos">Créditos</a> |</h4>
+<h4 align="center"> | <a href="#obetivo">Objetivos</a> | <a href="#desenvolvimento">Desenvolvimento</a> | <a href="#resultados">Resultados  obtidos</a> | <a href="#descricao">Descrição dos arquivos</a> | <a href="#creditos">Créditos</a> |</h4>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
 <h2 id="contexto"> :brain: CONTEXTO E OBJETIVO</h2>
 
-<p>Intitulado de BOT IFPB, o robô desenvolvido na plataforma Discord é um mecanismo de autenticação para os acadêmicos do curso, incluindo docentes, discentes e alunos egressos. O desenvolvimento do projeto dar-se-á uma proposta de avaliação para a cadeira de Algoritmos e Programação, ministrada pro Henrique Cunha.</p>
+<p><li>Objetivo geral</li>
+<h4 align="center"> Explorar a relação entre a presença de armas de fogo ilegais e a taxa de criminalidade nas regiões do Brasil, modelando e analisando esses fatores como redes complexas. O desenvolvimento do projeto dar-se-á uma proposta de avaliação para a cadeira de Teoria dos Grafos, ministrada pelo professor Henrique Cunha.</h4> </p>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
