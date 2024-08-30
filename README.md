@@ -36,21 +36,20 @@ Explorar a relação entre a presença de armas de fogo ilegais e a taxa de crim
 Este projeto pode contribuir para o desenvolvimento de políticas públicas de segurança mais eficientes, ao fornecer evidências empíricas sobre a relação entre armas ilegais e o aumento da criminalidade em determinadas regiões.
 </ul>
 
-<li>Ferramentas utilizadas</li> 
+<p><li><strong>Ferramentas utilizadas</strong></li></p>
 <ul>
-Bibgrafo: Para modelagem e estruturação dos dados como grafos;
-Gephi: Para visualização e análise das propriedades do grafo;
-NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades.
+→ Bibgrafo: Para modelagem e estruturação dos dados como grafos;
+→ Gephi: Para visualização e análise das propriedades do grafo;
+→ NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades.
 </ul>
 
-<li>Formato dos dados</li> 
+<p><li><strong>Formato dos dados</strong></li></p>
 <ul>
 Todos os arquivos utilizados no projeto foram extraídos em formato tabular, através da extensão .xlxs. São eles:
-Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma;
-Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências;
-População do País por Estado:  dados categorizados por UF e quantidade de habitantes. 
+→ Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma;
+→ Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências;
+→ População do País por Estado:  dados categorizados por UF e quantidade de habitantes. 
 </ul>
-
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
