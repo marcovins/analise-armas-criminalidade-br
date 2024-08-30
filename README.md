@@ -16,7 +16,6 @@ Análise da relação entre a presença de armas de fogo ilegais e a taxa de cri
 
 <h2 id="objetivo"> :brain: OBJETIVOS</h2>
 
-<p><li>Objetivo geral</li>
 <p> <h4 Objetivo geral </h4> 
     
 <div style="text-align: justify;"> 
