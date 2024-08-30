@@ -37,11 +37,9 @@ Este projeto pode contribuir para o desenvolvimento de políticas públicas de s
 </ul>
 
 <p><li><strong>Ferramentas utilizadas</strong></li></p>
-<ul>
-<div → Bibgrafo: Para modelagem e estruturação dos dados como grafos; </div>
-<div → Gephi: Para visualização e análise das propriedades do grafo; </div>
-<div → NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades. </div>
-</ul>
+<div align="justify"> → Bibgrafo: Para modelagem e estruturação dos dados como grafos; </div>
+<div align="justify"> → Gephi: Para visualização e análise das propriedades do grafo; </div>
+<div align="justify"> → NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades. </div>
 
 <p><li><strong>Formato dos dados</strong></li></p>
 <ul>
