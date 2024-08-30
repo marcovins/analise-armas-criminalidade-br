@@ -22,6 +22,12 @@ Análise da relação entre a presença de armas de fogo ilegais e a taxa de cri
 Explorar a relação entre a presença de armas de fogo ilegais e a taxa de criminalidade nas regiões do Brasil, modelando e analisando esses fatores como redes complexas. O desenvolvimento do projeto dar-se-á uma proposta de avaliação para a cadeira de Teoria dos Grafos, ministrada pelo professor Henrique Cunha.
 </div> </p>
 
+<p><li><strong>Objetivo geral</strong></li></p>
+
+<div style="text-align: justify;"> 
+Explorar a relação entre a presença de armas de fogo ilegais e a taxa de criminalidade nas regiões do Brasil, modelando e analisando esses fatores como redes complexas. O desenvolvimento do projeto dar-se-á uma proposta de avaliação para a cadeira de Teoria dos Grafos, ministrada pelo professor Henrique Cunha.
+</div>
+
 <p><li>Objetivos específicos</li>
 <h4 align="justify" style="font-weight: normal;"> → Modelar as conexões entre diferentes tipos de crimes e a apreensão de armas de fogo ilegais em diversas Unidades Federativas (UFs) brasileiras; </h4>
 <h4 align="justify" style="font-weight: normal;"> → Analisar padrões geográficos e temporais para identificar regiões com alta correlação entre a criminalidade e a presença de armas de fogo; </h4> 
