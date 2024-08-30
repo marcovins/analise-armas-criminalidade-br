@@ -27,47 +27,28 @@ Análise da relação entre a presença de armas de fogo ilegais e a taxa de cri
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
-<h2 id="canais"> :clipboard: DESCRIÇÃO DOS CANAIS DO SERVIDOR</h2>
+<h2 id="desenvolvimento"> 🖥️ DESENVOLVIMENTO</h2>
 
-<li>Canal #Autenticação 🖥️:</li> 
+<li>Impacto social da análise:</li> 
 <ul>
-Neste canal, o Bot é acionado quando um novo membro entra no servidor; este recebe o cargo de 'pretendente_entrada' e é solicitado que digite seu e-mail para autenticação. Caso o e-mail esteja na base de dados, o usuário recebe uma chave de autenticação via endereço eletrônico. Há um tempo limite de 5 minutos para inserção da chave correta e, caso ela seja válida e o e-mail conste na base de dados, o membro recebe o cargo apropriado e é inserido no servidor; caso contrário, é banido.
+Este projeto pode contribuir para o desenvolvimento de políticas públicas de segurança mais eficientes, ao fornecer evidências empíricas sobre a relação entre armas ilegais e o aumento da criminalidade em determinadas regiões.
 </ul>
 
-<li>Canal #Boas vindas 🎉:</li> 
+<li>Ferramentas utilizadas</li> 
 <ul>
-Neste canal, o usuário recém-autenticado recebe uma mensagem de boas-vindas, seguido da informação de que possui acesso aos canais do servidor.
+Bibgrafo: Para modelagem e estruturação dos dados como grafos;
+Gephi: Para visualização e análise das propriedades do grafo;
+NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades.
 </ul>
 
-<li>Canal #Avisos da Coordenação ⚠️:</li> 
+<li>Formato dos dados</li> 
 <ul>
-Este é o canal central do servidor, contendo todos os alunos regularmente matriculados no curso de Engenharia de Computação do IFPB - campus Campina Grande. Ele servirá como intermédio de comunicação entre os estudantes e a Coordenação do curso, de modo a alinhar questões gerenciais, acadêmicas e institucionais. 
+Todos os arquivos utilizados no projeto foram extraídos em formato tabular, através da extensão .xlxs. São eles:
+Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma;
+Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências;
+População do País por Estado:  dados categorizados por UF e quantidade de habitantes. 
 </ul>
 
-<li>Canal #Oportunidades de Emprego 📊:</li>  
-<ul>
-Este fórum engloba alunos atuais e egressos do curso de Engenharia de Computação do IFPB - campus Campina Grande. Ele servirá como intermédio de comunicação para que os ex-estudantes possam compartilhar suas experiências na área da tecnologia, divulgar vagas de emprego e/ou receber oportunidades advindas da coordenação do curso.  
-</ul>
-
-<li>Canal “Oportunidades Internas 📌:</li>
-<ul>
-Fórum destinado aos atuais alunos do curso, de modo que estes possam receber mensagens de divulgação referentes aos editais internos do IFPB (como bolsas de monitoria, pesquisa e extensão, auxílios estudantis, etc.). 
-</ul>
-
-<li>Canal #Dúvidas 🙋‍♀️:</li>
-<ul>
-Este é o fórum apropriado para esclarecimento de dúvidas da comunidade acadêmica (alunos, professores e egressos). Por isso, o canal será moderado e deverá conter apenas perguntas pertinentes ao curso ou mercado profissional da área. 
-</ul>
-
-<li>Canal #Off-topic 💥:</li> 
-<ul>
-  Traduzido livremente para o português como "fora do assunto”, este termo está sendo utilizado para indicar que o assunto das mensagens compartilhadas não possui ligação direta com o tema principal do servidor (comunicação sobre a graduação de Engenharia de Computação). Por isso, é um fórum de tema livre, o espaço apropriado para troca de memes, piadas e discussões de qualquer natureza. Deve-se evitar, no entanto, ofensas, conteúdo sexual, ações e expressões que gerem desconforto aos outros participantes. A moderação será mínima, desde que haja respeito. 
-</ul>
-
-<li>Canal #️Professores 📚:</li>
-<ul>
-Canal destinado apenas para intermédio de comunicação entre os docentes do curso. Neste, os professores podem discutir desde questões as quais julguem relevantes para o andamento do curso a temáticas livres. 
-</ul>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
