@@ -62,7 +62,7 @@ Grafo obtido:
 <br>
 </br>
 <p align="center"> 
-<a href="https://drive.google.com/drive/u/1/folders/14tyZwMbicRVeCIzNI1WbhtfOWsYgjzLu" target="_blank"><img src="https://drive.google.com/drive/u/1/folders/14tyZwMbicRVeCIzNI1WbhtfOWsYgjzLu" alt="image host"/></a>
+<a href="https://files.fm/f/wq7sbfpst3" target="_blank"><img src="https://files.fm/f/wq7sbfpst3" alt="image host"/></a>
 </p>
 
 <li>Comando “!artigos” 🔍:</li> 
