@@ -62,7 +62,7 @@ Grafo obtido:
 <br>
 </br>
 <p align="center"> 
-<a href="https://files.fm/f/wq7sbfpst3" target="_blank"><img src="https://files.fm/f/wq7sbfpst3" alt="image host"/></a>
+<a href="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" alt="image host"/></a>
 </p>
 
 <li>Comando “!artigos” 🔍:</li> 
