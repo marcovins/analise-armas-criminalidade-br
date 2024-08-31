@@ -51,7 +51,19 @@ Todos os arquivos utilizados no projeto foram extraídos em formato tabular, atr
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
-<h2 id="funcionalidades">✍️ FUNCIONALIDADES ADICIONAIS</h2>
+<h2 id="resultados"> 📈 RESULTADOS OBTIDOS</h2>
+
+<p><li><strong>Impacto social da análise</strong></li></p>
+<ul>
+Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Brasil e as arestas representam a relação entre cada estado e sua respectiva população. Assim, o grafo conecta cada UF a um nó 'População', com o peso da aresta representando a população daquela UF. 
+Grafo obtido:
+</ul>
+
+<br>
+</br>
+<p align="center"> 
+<a href="https://drive.google.com/drive/u/1/folders/14tyZwMbicRVeCIzNI1WbhtfOWsYgjzLu" target="_blank"><img src="https://drive.google.com/drive/u/1/folders/14tyZwMbicRVeCIzNI1WbhtfOWsYgjzLu" alt="image host"/></a>
+</p>
 
 <li>Comando “!artigos” 🔍:</li> 
 <ul>
