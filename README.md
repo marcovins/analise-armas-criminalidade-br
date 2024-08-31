@@ -65,20 +65,41 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <a href="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" alt="image host"/></a>
 </p>
 
-<li>Comando “!artigos” 🔍:</li> 
+<p><li><strong>Grafo de Ocorrências de Crimes Violentos</strong></li></p>
 <ul>
-Este comando pode ser utilizado dentro do servidor, em qualquer canal, para busca de artigos científicos (no idioma inglês) localizados através da palavra-chave informada. O Bot retornará 5 artigos classificados por ordem de relevância na arvix, constando: título, autor e link para download em pdf. É importante frisar que outros membros podem ter acesso à pesquisa, com exceção do chat privado com o Bot IFPB (para acessá-lo, basca clicar sobre o nome ou ícone do mascote e digitar o comando no campo “Conversar com @IFPB”).
+Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Brasil e as arestas representam a relação entre cada estado e sua respectiva população. Assim, o grafo conecta cada UF a um nó 'População', com o peso da aresta representando a população daquela UF. </ul>
+<ul> Grafo obtido:
 </ul>
 
-<li>Integração com o Stack Overflow 🗣️:</li>  
+<br>
+</br>
+<p align="center"> 
+<a href="https://s4.aconvert.com/convert/p3r68-cdx67/alsyk-4i5xr.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/alsyk-4i5xr.jpg" alt="image host"/></a>
+</p>
+
+<p><li><strong>Grafo de Incidência de Armas Ilícitas</strong></li></p>
 <ul>
-Pertencente à Rede Stack Exchange, o Stack Overflow é um dos maiores sites de perguntas e respostas para profissionais e entusiastas na área de programação de computadores. Por isso, a funcionalidade é pertinente ao solicitar a pergunta ao usuário do servidor (através do comando “!duvida”) e respondê-lo com as soluções mais relevantes encontradas no site e seus respectivos links.
+Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Brasil e as arestas representam a relação entre cada estado e sua respectiva população. Assim, o grafo conecta cada UF a um nó 'População', com o peso da aresta representando a população daquela UF. </ul>
+<ul> Grafo obtido:
 </ul>
 
-<li>Envio de dicas acadêmicas 🎓:</li>
+<br>
+</br>
+<p align="center"> 
+<a href="https://s4.aconvert.com/convert/p3r68-cdx67/a1ekr-hwhaj.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/a1ekr-hwhaj.jpg" alt="image host"/></a>
+</p>
+
+<p><li><strong>Grafo final</strong></li></p>
 <ul>
-Em um intervalo de 60 minutos, o servidor encaminha mensagens para suporte acadêmico aos discentes, dentre elas: dicas sobre o Campus (como se conectar ao Wi-Fi e horário dos transportes públicos, por exemplo), dicas acadêmicas/de estudo (por exemplo, revisar regularmente o conteúdo já estudado para fortalecer a memória) e dicas profissionais/da área (a exemplo desta: "Quando estiver programando, lembre-se de que um bom café pode ser o seu 'compilador' secreto!"). Algumas das orações podem conter tom humorístico, também sendo uma característica pertinente ao BOT. 
+Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Brasil e as arestas representam a relação entre cada estado e sua respectiva população. Assim, o grafo conecta cada UF a um nó 'População', com o peso da aresta representando a população daquela UF. </ul>
+<ul> Grafo obtido:
 </ul>
+
+<br>
+</br>
+<p align="center"> 
+<a href="https://s4.aconvert.com/convert/p3r68-cdx67/axln2-m0v6l.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/axln2-m0v6l.jpg" alt="image host"/></a>
+</p>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
