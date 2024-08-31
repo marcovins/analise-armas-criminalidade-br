@@ -108,10 +108,14 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <p>Este projeto inclui arquivos executáveis e de destino, além de acesso ao diretório fonte (repositório), como a seguir:</p>
 <h4>➔ Arquivos executáveis:</h4>
 <ul>
-  <li><a href="https://github.com/ligianogueira1/Bot_Discord_IFPB/blob/main/main.py"><b>main.py</b></a> - Contém o código-fonte responsável pela integração entre o Bot e o servidor do Discord. Para isso, foram utilizados procedimentos de autenticação, em que o BOT envia os comandos de solicitação de e-mail e atribui o usuário ao respectivo cargo quando a condição é cumprida. </li>
-   <li><a href="https://github.com/ligianogueira1/Bot_Discord_IFPB/blob/main/database.py"><b>database.py</b></a> - Contém os dataframes utilizados para a autenticação e strings com dicas a serem enviadas, em um intervalo de 60 minutos, para o usuário autenticado no servidor. </li>
-    <li><a href="https://github.com/ligianogueira1/Bot_Discord_IFPB/blob/main/bot_functions.py"><b>bot_functions.py</b></a> - Modúlo responsável por armazenar as funções utilizadas no main.py, estando estas devidamente documentadas no código por suas respectivas docstrings. </li>
-   <li><a href="https://github.com/ligianogueira1/Bot_Discord_IFPB/blob/main/.gitignore"><b>.gitignore</b></a> - Contém um arquivo config.py não rastreável, sendo este responsável pela informação dos dados de e-mail, token de comunicação com o Google, token do Discord e as ID's dos canais do servidor. Sendo assim, o .gitigoore é utilizado como recurso de segurança e confidencialidade das informações sensíveis do código. Caso queira testar o servidor e sua funcionamento devida, crie um arquivo "config.py" e adicione as variáveis: token, email_bot, password, pretendente_id, public_channel_id, off_topic_id e welcome_id (as variáveis de ID podem ser substituídas pelos canais de sua preferência). </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/Populacao.py"><b>Populacao.py</b></a> - Contém o código-fonte responsável pela importação do dataset de população. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/OcorrenciasViolencia.py"><b>OcorrenciasViolencia.py</b></a> - Contém o código-fonte responsável pela importação do dataset de Ocorrências de Crimes de Violentos. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/FurtosDeArmas.py"><b>FurtosDeArmas.py</b></a> - Contém o código-fonte responsável pela importação do dataset de Incidência de Armas Ilícitas. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/ModelagemGrafos/grafoPopulacao.py"><b>grafoPopulacao.py</b></a> - Este código utiliza as bibliotecas pandas e networkx para criar e manipular um grafo direcionado com base em dados populacionais das Unidades Federativas (UFs) do Brasil. O grafo é estruturado a partir de um arquivo Excel que contém as informações populacionais, e, em seguida, as arestas são adicionadas com os pesos correspondentes. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/ModelagemGrafos/grafoOcorrencias.py"><b>grafoOcorrencias.py</b></a> - Utiliza as bibliotecas pandas e networkx para criar e manipular um grafo direcionado com base em dados de ocorrências criminais nas UFs do Brasil. O grafo é gerado a partir de um arquivo CSV contendo informações detalhadas sobre as ocorrências e é estruturado para mostrar a relação entre as UFs e os tipos de ocorrências. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/ModelagemGrafos/grafoCrimes.py"><b>grafoCrimes.py</b></a> - Construção de grafo direcionado que representa a relação entre as UFs os e tipos de crimes, com base em um conjunto de dados de ocorrências criminais e permitindo a distribuição geográfica de crimes em relação a cada estado. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/ModelagemGrafos/grafoFinal.py"><b>grafoFinal.py</b></a> - Este código cria um grafo direcionado para modelar a associação entre a violência (representada por crimes) e a circulação ilícita de armas de fogo em diferentes UFs do Brasil. Ele utiliza três grafos distintos: um para crimes, outro para ocorrências envolvendo armas de fogo e um último para a população. A partir destes grafos, um grafo final é construído para analisar a relação entre esses fatores. </li>
+<li><a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/src/visualizar.py"><b>visualizar.py</b></a> - Contém uma função chamada visualizar_grafo, que utiliza as bibliotecas matplotlib e networkx para gerar uma visualização gráfica de um grafo. A função permite que ele seja exibido com um layout de mola, o que ajuda a distribuir os nós de forma que as arestas sejam equilibradas visualmente. </li>
 </ul>
 
 <h4>➔ Bibliotecas utilizadas:</h4> 
@@ -200,15 +204,10 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 
 <h2 id="creditos"> :scroll: CRÉDITOS</h2>
 
-<li>Alunos</li>
-<p>Anna Lígia Alves Nogueira</p>
-<p>Marcos Vinícis Belo da Silva</p></p>
-
-<li>Professor responsável</li>
-<p>Henrique Cunha</p>
-
-
-
 <p><li><strong>Alunos</strong></li></p>
 <ul> Anna Lígia Alves Nogueira </ul>
 <ul> Marcos Vinícis Belo da Silva </ul>
+
+<p><li><strong>Professor responsável</strong></li></p>
+<ul> Henrique Cunha </ul>
+
