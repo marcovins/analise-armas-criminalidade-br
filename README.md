@@ -202,7 +202,13 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 
 <li>Alunos</li>
 <p>Anna Lígia Alves Nogueira</p>
-<p>Rodrigues Matheus Lima</p></p>
+<p>Marcos Vinícis Belo da Silva</p></p>
 
 <li>Professor responsável</li>
 <p>Henrique Cunha</p>
+
+
+
+<p><li><strong>Alunos</strong></li></p>
+<ul> Anna Lígia Alves Nogueira </ul>
+<ul> Marcos Vinícis Belo da Silva </ul>
