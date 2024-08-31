@@ -44,9 +44,9 @@ Este projeto pode contribuir para o desenvolvimento de políticas públicas de s
 <p><li><strong>Formato dos dados</strong></li></p>
 <ul>
 Todos os arquivos utilizados no projeto foram extraídos em formato tabular, através da extensão .xlxs. São eles:
-→ Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma;
-→ Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências;
-→ População do País por Estado:  dados categorizados por UF e quantidade de habitantes. 
+<div align="justify"> → Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma; </div>
+<div align="justify"> → Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências; </div>
+<div align="justify"> → População do País por Estado:  dados categorizados por UF e quantidade de habitantes. </div>
 </ul>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
