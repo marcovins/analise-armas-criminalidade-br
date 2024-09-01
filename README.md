@@ -2,7 +2,7 @@
 Análise da relação entre a presença de armas de fogo ilegais e a taxa de criminalidade nas regiões do Brasil, modelando e analisando esses fatores como redes complexas, para o curso de Engenharia de Computação - IFPB.
 
 <p align="center"> 
-<h4 align="center"> Grafo para Análise de Armas e Criminalidade - Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a>(Inverno 2024) </h4>
+<h4 align="center"> Grafo para Análise de Armas e Criminalidade - Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a> (Inverno 2024) </h4>
 
 <br>
 </br>
@@ -33,20 +33,36 @@ Explorar a relação entre a presença de armas de fogo ilegais e a taxa de crim
 
 <p><li><strong>Impacto social da análise</strong></li></p>
 <ul>
-Este projeto pode contribuir para o desenvolvimento de políticas públicas de segurança mais eficientes, ao fornecer evidências empíricas sobre a relação entre armas ilegais e o aumento da criminalidade em determinadas regiões.
+<div align="justify"> Este projeto pode contribuir para o desenvolvimento de políticas públicas de segurança mais eficientes, ao fornecer evidências empíricas sobre a relação entre armas ilegais e o aumento da criminalidade em determinadas regiões. </div>
 </ul>
 
 <p><li><strong>Ferramentas utilizadas</strong></li></p>
+<ul>
 <div align="justify"> → Bibgrafo: Para modelagem e estruturação dos dados como grafos; </div>
 <div align="justify"> → Gephi: Para visualização e análise das propriedades do grafo; </div>
 <div align="justify"> → NetworkX: Para análises adicionais das propriedades dos grafos, como centralidade e detecção de comunidades. </div>
+</ul>
 
 <p><li><strong>Formato dos dados</strong></li></p>
 <ul>
-Todos os arquivos utilizados no projeto foram extraídos em formato tabular, através da extensão .xlxs. São eles:
+<div align="justify"> Todos os arquivos utilizados no projeto foram extraídos em formato tabular, através da extensão .xlxs. São eles: </div>
 <div align="justify"> → Ocorrências com Armas de Fogo: dados categorizados por UF, tipo de ocorrência (ex: apreensão, furto), data e características da arma; </div>
 <div align="justify"> → Crimes por Estado no Brasil: dados categorizados por UF, tipo de crime, data, e quantidade de ocorrências; </div>
 <div align="justify"> → População do País por Estado:  dados categorizados por UF e quantidade de habitantes. </div>
+</ul>
+
+<p><li><strong>Transformação dos dados</strong></li></p>
+<ul>
+<div align="justify"> → Vértices: Unidades Federativas (UFs), tipos de crimes e ocorrências de incidência de armas; </div>
+<div align="justify"> → Arestas: relações entre a quantidade de habitantes em uma UF, a presença de armas ilegais e a ocorrência de determinados tipos de crimes também em uma UF; </div>
+<div align="justify"> → Pesos das arestas: frequência das apreensões de armas e a quantidade de crimes em uma determinada região. </div>
+</ul>
+
+<p><li><strong>Análise das características dos dados></li></p>
+<ul>
+<div align="justify"> → Centralidade: identificação das UFs com maior influência tanto em termos de apreensões de armas quanto de ocorrências criminais; </div>
+<div align="justify"> → Componentes Conexas: detecção de regiões com alta interconexão entre crimes e apreensões; </div>
+<div align="justify"> → Comunidades: identificação de grupos de estados onde a relação entre crimes e apreensões é mais forte. </div>
 </ul>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
