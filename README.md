@@ -58,7 +58,7 @@ Explorar a relação entre a presença de armas de fogo ilegais e a taxa de crim
 <div align="justify"> → Pesos das arestas: frequência das apreensões de armas e a quantidade de crimes em uma determinada região. </div>
 </ul>
 
-<p><li><strong>Análise das características dos dados></li></p>
+<p><li><strong>Análise das características dos dados</strong></li></p>
 <ul>
 <div align="justify"> → Centralidade: identificação das UFs com maior influência tanto em termos de apreensões de armas quanto de ocorrências criminais; </div>
 <div align="justify"> → Componentes Conexas: detecção de regiões com alta interconexão entre crimes e apreensões; </div>
