@@ -78,7 +78,7 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <br>
 </br>
 <p align="center"> 
-<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_populacao.png" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" alt="image host"/></a>
+<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_populacao.png" target="_blank"><img src="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_populacao.png" alt="image host"/></a>
 </p>
 
 <p><li><strong>Grafo de Ocorrências de Crimes Violentos</strong></li></p>
