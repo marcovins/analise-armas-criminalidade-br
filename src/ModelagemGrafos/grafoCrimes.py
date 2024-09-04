@@ -6,7 +6,7 @@ arquivo_base = pd.read_csv("../../rsc/datasets/crimes_por_estado/Crimes_brasil_u
 
 municipios = arquivo_base['Uf'].str.strip().unique()
 crimes = arquivo_base['Tipo_crime'].str.strip().unique()
-
+    
 grafoCrimes = nx.DiGraph()
 grafoCrimes.add_nodes_from(municipios)
 grafoCrimes.add_nodes_from(crimes)
