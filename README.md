@@ -78,7 +78,7 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <br>
 </br>
 <p align="center"> 
-<a href="https://s4.aconvert.com/convert/p3r68-cdx67/arc3y-12rh2.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/auo53-5z1zr.jpg" alt="image host"/></a>
+<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_populacao.png" target="_blank"><img src="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_populacao.png" alt="image host"/></a>
 </p>
 
 <p><li><strong>Grafo de Ocorrências de Crimes Violentos</strong></li></p>
@@ -90,7 +90,7 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <br>
 </br>
 <p align="center"> 
-<a href="https://files.fm/f/car5hevygv" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/alsyk-4i5xr.jpg" alt="image host"/></a>
+<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_ocorrencias.png" target="_blank"><img src="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_ocorrencias.png" alt="image host"/></a>
 </p>
 
 <p><li><strong>Grafo de Incidência de Armas Ilícitas</strong></li></p>
@@ -102,7 +102,7 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <br>
 </br>
 <p align="center"> 
-<a href="https://s4.aconvert.com/convert/p3r68-cdx67/a1ekr-hwhaj.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/a1ekr-hwhaj.jpg" alt="image host"/></a>
+<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_incidenciaDeArmas.png" target="_blank"><img src="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_incidenciaDeArmas.png" alt="image host"/></a>
 </p>
 
 <p><li><strong>Grafo final</strong></li></p>
@@ -114,7 +114,7 @@ Grafo direcionado onde os nós representam as Unidades Federativas (UFs) do Bras
 <br>
 </br>
 <p align="center"> 
-<a href="https://s4.aconvert.com/convert/p3r68-cdx67/axln2-m0v6l.jpg" target="_blank"><img src="https://s4.aconvert.com/convert/p3r68-cdx67/axln2-m0v6l.jpg" alt="image host"/></a>
+<a href="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_final.png" target="_blank"><img src="https://github.com/marcovins/analise-armas-criminalidade-br/blob/master/rsc/Imagens/grafo_final.png" alt="image host"/></a>
 </p>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
